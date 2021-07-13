@@ -40,7 +40,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Design Overview">Built With</a></li>
       </ul>
     </li>
     <li>
@@ -63,21 +63,16 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This repo aims at correcting student homework automatically based on OCR engine and template matching strategy. 
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+Now the repo support correcting questions with fixed answer area because of the limitations of template matching method via perspective transform. 
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Three steps are contained:
+1. Find matching template and anchor positions 
+2. Find answer positions in homework
+3. Correct answer in homework based on ocr engine.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-### Built With
+### Design Overview
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
