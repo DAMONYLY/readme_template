@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/DAMONYLY/Best-README-Template">
+  <a href="https://github.com/DAMONYLY/readme_template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     A PIG with AI, namely, Peppa!
     <br />
-    <a href="https://github.com/DAMONYLY/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DAMONYLY/readme_template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DAMONYLY/Best-README-Template">View Demo</a>
+    <a href="https://github.com/DAMONYLY/readme_template">View Demo</a>
     ·
-    <a href="https://github.com/DAMONYLY/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/DAMONYLY/readme_template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DAMONYLY/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/DAMONYLY/readme_template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -130,7 +130,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/DAMONYLY/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/DAMONYLY/readme_template/issues) for a list of proposed features (and known issues).
 
 
 
@@ -183,16 +183,16 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/DAMONYLY/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/DAMONYLY/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/DAMONYLY/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/DAMONYLY/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/DAMONYLY/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/DAMONYLY/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/DAMONYLY/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/DAMONYLY/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/DAMONYLY/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/DAMONYLY/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/DAMONYLY/readme_template.svg?style=for-the-badge
+[contributors-url]: https://github.com/DAMONYLY/readme_template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DAMONYLY/readme_template.svg?style=for-the-badge
+[forks-url]: https://github.com/DAMONYLY/readme_template/network/members
+[stars-shield]: https://img.shields.io/github/stars/DAMONYLY/readme_template.svg?style=for-the-badge
+[stars-url]: https://github.com/DAMONYLY/readme_template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DAMONYLY/readme_template.svg?style=for-the-badge
+[issues-url]: https://github.com/DAMONYLY/readme_template/issues
+[license-shield]: https://img.shields.io/github/license/DAMONYLY/readme_template.svg?style=for-the-badge
+[license-url]: https://github.com/DAMONYLY/readme_template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/DAMONYLY
 [product-screenshot]: images/screenshot.png
