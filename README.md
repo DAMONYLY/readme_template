@@ -74,7 +74,6 @@ Three steps are contained:
 
 ### Design Overview
 
-<center>
 ```mermaid
 graph LR
 
@@ -98,7 +97,6 @@ modules-->marker[marker:核心批改模块组]
 marker-.->fixed[固定答题区域题型]
 marker-.->unfixed[非固定答题区域题型]
 ```
-</center>
 
 <!-- GETTING STARTED -->
 ## Getting Started
