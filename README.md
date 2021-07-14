@@ -74,12 +74,31 @@ Three steps are contained:
 
 ### Design Overview
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+<center>
+```mermaid
+graph LR
 
+modules[modules:作业批改模块]-->common[common:通用模块组]
+common-->api_service[api_service:网络调用类]
+common-->geometry[geometry:几何结构]
+common-->function[functino:小型函数]
 
+modules-->io[io:IO模块组]
+io-->json_io[json_io:JSON相关的IO函数]
+io-->image_io[image_io:图像相关的IO函数]
+
+modules-->utils[utils:辅助函数]
+modules-->globals[globals:单例模块]
+
+modules-->matcher[matcher:核心匹配模块组]
+matcher-->match_assistant[match_assistant:手写印刷辅助模块]
+matcher-->slice[slice:切题模块]
+
+modules-->marker[marker:核心批改模块组]
+marker-.->fixed[固定答题区域题型]
+marker-.->unfixed[非固定答题区域题型]
+```
+</center>
 
 <!-- GETTING STARTED -->
 ## Getting Started
