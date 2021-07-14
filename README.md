@@ -40,7 +40,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#Design Overview">Design Overview</a></li>
+        <li><a href="#Design-Overview">Design Overview</a></li>
       </ul>
     </li>
     <li>
